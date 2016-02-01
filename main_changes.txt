@@ -1,4 +1,5 @@
 20160124:
+problem: the value of TT_F1 is designede to be less important than that of TT_M0, but from the distribution, it's not the case.
 问题：发现参数估计结果的问题，TT_F1的设定值是比TT_M0的值小的，但是估计结果却出了问题，这个是原则性错误。
 办法：在参数范围的设定上修改：
 TT_F1上界和TT_M0都设置成795.05
