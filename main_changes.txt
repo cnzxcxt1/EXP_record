@@ -23,3 +23,29 @@ the upper bound of TT_M0 is changed to be 950.
 Problem: Still, the TT_M0 distribution is not so beautiful, still some estimation at bound.
 
 Solution:TT_M0:[800,900]
+
+
+20160131:
+Problem: Still, there are some estimated values (about 10%) centralized at the upper bound. But comparing the results of 0130 and those of 0131, there is no great differences between them.
+
+Solution: the parameters TT_F1 and RUE both have good distributions. so firstly their values are considered to be obtained. 
+we take the mean: RUE_pot=3.3269;TT_F1=708.7778
+and we try to estimate TT_M0,TT_M3 and A2.
+
+A2:10-19    14.5
+TTM0:800-900    850    
+TTM3:1300-1650  1475
+
+20160203:
+Problem: It is not a good idea to bring TT_M0 in the estimation. Because it changes a lot compared with the last one. So, the next step will not have TT_M0 with TT_M3.
+
+Solution:
+we take the mean: RUE_pot=3.3269;TT_F1=708.7778,TT_M0=867.6284
+and the parameters to be estimated will be TT_M3 and A2.
+
+
+
+
+  
+
+
