@@ -43,6 +43,17 @@ Solution:
 we take the mean: RUE_pot=3.3269;TT_F1=708.7778,TT_M0=867.6284
 and the parameters to be estimated will be TT_M3 and A2.
 
+20160205:
+so these two parameters TT_M3 and A2 have good distributions.
+and there is no big difference between 0203 and 0205. the only parameter that is not so stable is TT_M0, in my opinion, it is because the sensibility index for TT_M0 is so insignificant that it changes a lot.
+
+20160208:
+so I just wander if I could estimate these four parameters: A2, RUE, TT_M3 and TT_F1 together.
+but according to the results, it's not so easy as I supposed.
+I gave up the estimation with so many parameters.
+
+
+
 
 
 
