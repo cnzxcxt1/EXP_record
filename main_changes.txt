@@ -52,8 +52,22 @@ so I just wander if I could estimate these four parameters: A2, RUE, TT_M3 and T
 but according to the results, it's not so easy as I supposed.
 I gave up the estimation with so many parameters.
 
+20160219:
+I just repeat the experiment of 20160129 but with nbr_senarios=400
+
+I got 	RUE_pot=3.3242;	TT_M0=868.7222; TT_F1=707.9132
 
 
+20160221:
+I just repeat the experiment of 20160129 but with nbr_senarios=500
+
+I got 	RUE_pot=3.3253;	TT_M0=869.346; TT_F1=707.359
+
+
+20160303:
+I just repeat the experiment of 20160205 but with nbr_senarios=400
+
+I got 	RUE_pot=3.3242;	TT_M0=868.7222; TT_F1=707.9132
 
 
 
