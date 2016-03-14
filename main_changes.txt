@@ -46,6 +46,7 @@ and the parameters to be estimated will be TT_M3 and A2.
 20160205:
 so these two parameters TT_M3 and A2 have good distributions.
 and there is no big difference between 0203 and 0205. the only parameter that is not so stable is TT_M0, in my opinion, it is because the sensibility index for TT_M0 is so insignificant that it changes a lot.
+we got TT_M3 = 1453.391 and A2 = 13.9157
 
 20160208:
 so I just wander if I could estimate these four parameters: A2, RUE, TT_M3 and TT_F1 together.
@@ -67,7 +68,15 @@ I got 	RUE_pot=3.3253;	TT_M0=869.346; TT_F1=707.359
 20160303:
 I just repeat the experiment of 20160205 but with nbr_senarios=400
 
-I got 	RUE_pot=3.3242;	TT_M0=868.7222; TT_F1=707.9132
+with RUE_pot=3.3242;	TT_M0=868.7222; TT_F1=707.9132
+I got TT_M3 = 1462.214 and A2 = 14.0123
+
+20160306:
+I just repeat the experiment of 20160205 but with nbr_senarios=500
+
+with RUE_pot=3.3253;	TT_M0=869.346; TT_F1=707.359
+
+I got TT_M3 = 1453.617 and A2 = 13.9189
 
 
 
